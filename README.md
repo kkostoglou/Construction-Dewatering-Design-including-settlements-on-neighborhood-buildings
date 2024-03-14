@@ -7,6 +7,6 @@ Complete Excel sheets calculations are provided
 It calculates the required pumping discharge quantity Q, to succeed the desirable water drawdown, modeling the excavation as one big well.
 Then using the superposition method of each separate well calculates the drawdown at internal the project points and at external buildings points at their foundation level.
 Also, it calculates the dewatering lines sizes, the pumps well filter pack and screen.
-Moreover, the Plaxis program used for numerical analysis, as is noted in the report
+Moreover, the Plaxis program used for numerical analysis, as is noted in the report.
 Hope it will be helpful for engineers dealing with similar projects.
 Any proposal or correction will be well accepted.
